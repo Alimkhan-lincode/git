@@ -1,4 +1,33 @@
-h1{
-  font-size: 25px;
-  font-weight: 700;
+*{
+  box-sizing: border-box;
+}
+.container{
+  width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.first_txt{
+  font-size: 20px;
+  color: chocolate;
+  height: 300px;
+  width: 300px;
+  background-color: cyan;
+  border-radius: 20px;
+  box-shadow: 10px 5px 5px #00000076;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.two_txt{
+  font-size: 20px;
+  color: cyan;
+  height: 300px;
+  width: 300px;
+  background-color: chocolate;
+  border-radius: 20px;
+  box-shadow: 10px 5px 5px #00000076;
+  text-align: center;
+  padding-top: 50px;
 }
