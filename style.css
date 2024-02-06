@@ -9,31 +9,25 @@
 }
 
 .first_txt{
+  font-size: 20px;
+  color: chocolate;
   height: 300px;
   width: 300px;
   background-color: cyan;
   border-radius: 20px;
   box-shadow: 10px 5px 5px #00000076;
+  text-align: center;
   padding-top: 50px;
 }
 
-.first_txt> p {
-  font-size: 20px;
-  color: chocolate;
-  text-align: center;
-}
-
 .two_txt{
+  font-size: 20px;
+  color: cyan;
   height: 300px;
   width: 300px;
   background-color: chocolate;
   border-radius: 20px;
   box-shadow: 10px 5px 5px #00000076;
-  padding-top: 50px;
-}
-
-.two_txt> p {
-  font-size: 20px;
-  color: cyan;
   text-align: center;
+  padding-top: 50px;
 }
